@@ -182,7 +182,7 @@ $(document).ready(function () {
 
 #### 3. 设置宽高
 > Markdown 还没有办法指定图片的高度与宽度，如果你需要的话，你可以使用普通的 <img> 标签。
-> <img src=" resources/index.jpg" width="50%">
+> <img src="resources/index.jpg" width="50%">
 
 ## 8. markdown 表格
 #### 1. Markdown 制作表格
