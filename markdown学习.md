@@ -178,11 +178,11 @@ $(document).ready(function () {
 > 这个链接用 1 作为网址变量 [background][2].
 > 然后在文档的结尾为变量赋值（网址）
 >
-> [2]: C:/Users/maohai/Desktop/index.jpg
+> [2]: resources/index.jpg
 
 #### 3. 设置宽高
 > Markdown 还没有办法指定图片的高度与宽度，如果你需要的话，你可以使用普通的 <img> 标签。
-> <img src=" C:/Users/maohai/Desktop/index.jpg" width="50%">
+> <img src=" resources/index.jpg" width="50%">
 
 ## 8. markdown 表格
 #### 1. Markdown 制作表格
