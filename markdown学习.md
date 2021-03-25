@@ -59,7 +59,9 @@ _________________
 
 #### 7. 脚注
 脚注是对文本的补充说明。Markdown 脚注的格式如下:
+
 [^要注明的文本]，例如：
+
 [^RUNOOB]：菜鸟教程 -- 学的不仅仅是技术，更是梦想！！！
 
 #### 8. 缩进
@@ -201,7 +203,7 @@ $(document).ready(function () {
 
 ## 9. markdown 高级技巧
 #### 1. 支持的 HTML 元素
-不在 Markdown 涵盖范围之内的标签，都可以直接在文档里面用 HTML 撰写。目前支持的 HTML 元素有：<kbd> <b> <i> <em> <sup> <sub> <br>等，如：
+不在 Markdown 涵盖范围之内的标签，都可以直接在文档里面用 HTML 撰写。目前支持的 HTML 元素有：\<kbd> \<b> \<i> \<em> \<sup> \<sub> \<br>等，如：
 	
 使用<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>重启电脑
 
